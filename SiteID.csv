@@ -1,0 +1,385 @@
+Customer,Site,SiteID
+Alaska,--,115
+Alaska,Anchorage - Automation,117
+Alaska,Anchorage - Broadcast,122
+Alaska,Anchorage - Office,116
+Alaska,Anchorage - Printers,486
+Alaska,Anchorage - Servers,487
+Alaska,Anchorage - Streaming,470
+Alaska,Wasilla - Office,126
+Albert Lea,--,133
+Albert Lea,Albert Lea - Automation,382
+Albert Lea,Albert Lea - Broadcast,379
+Albert Lea,Albert Lea - Office,134
+Albert Lea,Albert Lea - Printers,258
+Albert Lea,Albert Lea - Servers,257
+Albert Lea,Albert Lea - Streaming,256
+Albert Lea,Albert Lea - Studios,383
+Amarillo,--,196
+Amarillo,Amarillo - Automation,460
+Amarillo,Amarillo - Broadcast,459
+Amarillo,Amarillo - Office,200
+Amarillo,Amarillo - Printers,461
+Amarillo,Amarillo - Servers,500
+Amarillo,Amarillo - Studios,458
+Aurora,--,152
+Aurora,Aurora - Automation,154
+Aurora,Aurora - Broadcast,381
+Aurora,Aurora - Office,153
+Aurora,Aurora - Printers,380
+Aurora,Aurora - Servers,465
+Aurora,Aurora - Studios,457
+Austin,--,260
+Austin,Austin - Automation,384
+Austin,Austin - Broadcast,385
+Austin,Austin - Office,261
+Austin,Austin - Printers,375
+Austin,Austin - Servers,386
+Austin,Austin - Studios,387
+Austin,Austing - Streaming,374
+AV Status Testing,--,259
+Bakersfield,--,181
+Bakersfield,Bakersfield - Automation,454
+Bakersfield,Bakersfield - Broadcast,229
+Bakersfield,Bakersfield - Office,205
+Bakersfield,Bakersfield - Printers,456
+Bakersfield,Bakersfield - Studios,455
+Bethany/Cameron,--,218
+Bethany/Cameron,Bethany - Automation,450
+Bethany/Cameron,Bethany - Broadcast,221
+Bethany/Cameron,Bethany - Office,219
+Bethany/Cameron,Bethany - Printers,483
+Bethany/Cameron,Bethany - Servers,484
+Bethany/Cameron,Bethany - Streaming,480
+Bethany/Cameron,Bethany - Studios,451
+Bethany/Cameron,Cameron - Automation,452
+Bethany/Cameron,Cameron - Broadcast,222
+Bethany/Cameron,Cameron - Office,220
+Bethany/Cameron,Cameron - Printers,482
+Bethany/Cameron,Cameron - Servers,475
+Bethany/Cameron,Cameron - Streaming,481
+Bethany/Cameron,Cameron - Studios,453
+Brookings,--,240
+Brookings,Brookings - Automation,388
+Brookings,Brookings - Broadcast,390
+Brookings,Brookings - Office,241
+Brookings,Brookings - Printers,391
+Brookings,Brookings - Servers,392
+Brookings,Brookings - Streaming,393
+Brookings,Brookings - Studios,389
+Canton,--,227
+Canton,Canton - Automation,438
+Canton,Canton - Broadcast,230
+Canton,Canton - Office,228
+Canton,Canton - Printers,499
+Canton,Canton - Servers,231
+Canton,Canton - Streaming,497
+Canton,Canton - Studios,437
+Chambersburg/Hagerstown,--,192
+Chambersburg/Hagerstown,Broadcast,194
+Chambersburg/Hagerstown,Chambersburg - Servers,507
+Chambersburg/Hagerstown,Chambersburg/Hagerstown - Studio,505
+Chambersburg/Hagerstown,Office,193
+Columbia,--,168
+Columbia,Columbia - Automation,439
+Columbia,Columbia - Broadcast,440
+Columbia,Columbia - Office,169
+Columbia,Columbia - Printers,444
+Columbia,Columbia - Servers,441
+Columbia,Columbia - Streaming,442
+Columbia,Columbia - Studios,443
+Columbus,--,189
+Columbus,Columbus - Automation,394
+Columbus,Columbus - Broadcast,190
+Columbus,Columbus - Office,232
+Columbus,Columbus - Printers,248
+Columbus,Columbus - Servers,191
+Columbus,Columbus - Streaming,249
+Columbus,Columbus - Studios,395
+Corporate,--,101
+Corporate,Corporate - Servers,462
+Corporate,Corporate Office,107
+Corporate,Offsite,108
+Corporate,Staging,467
+Crystal Lake,--,206
+Crystal Lake,Crystal Lake - Broadcast,226
+Crystal Lake,Crystal Lake - Office,508
+Crystal Lake,Crystal Lake - Studios,463
+Dayton,--,182
+Dayton,Dayton - Automation,371
+Dayton,Dayton - Broadcast,184
+Dayton,Dayton - Office,183
+Dayton,Dayton - Printers,373
+Dayton,Dayton - Servers,233
+Dayton,Dayton - Streaming,496
+Dayton,Dayton - Studios,372
+East Texas,--,186
+East Texas,Longview - Automation,314
+East Texas,Longview - Broadcast,365
+East Texas,Longview - Office,313
+East Texas,Longview - Printers,367
+East Texas,Longview - Servers,493
+East Texas,Longview - Streaming,495
+East Texas,Longview - Studio,366
+East Texas,Tyler - Automation,316
+East Texas,Tyler - Broadcast,368
+East Texas,Tyler - Office,187
+East Texas,Tyler - Printer,370
+East Texas,Tyler - Servers,492
+East Texas,Tyler - Streaming,494
+East Texas,Tyler - Studio,369
+Fairfield,--,179
+Fairfield,Fairfield - Automation,363
+Fairfield,Fairfield - Broadcast,362
+Fairfield,Fairfield - Office,204
+Fairfield,Fairfield - Printers,364
+Fairfield,Fairfield - Studios,361
+Far East Bay,--,137
+Far East Bay,Pleasanton - Automation,357
+Far East Bay,Pleasanton - Broadcast,358
+Far East Bay,Pleasanton - Office,207
+Far East Bay,Pleasanton - Printers,360
+Far East Bay,Pleasanton - Studio,359
+Far East Bay,Vacaville - Automation,354
+Far East Bay,Vacaville - Broadcast,255
+Far East Bay,Vacaville - Office,138
+Far East Bay,Vacaville - Printers,356
+Far East Bay,Vacaville - Studio,355
+Farmington/Festus,--,158
+Farmington/Festus,Farmington - Automation,348
+Farmington/Festus,Farmington - Broadcast,347
+Farmington/Festus,Farmington - Office,159
+Farmington/Festus,Farmington - Printers,349
+Farmington/Festus,Farmington - Studio,346
+Farmington/Festus,Festus - Automation,350
+Farmington/Festus,Festus - Broadcast,351
+Farmington/Festus,Festus - Office,160
+Farmington/Festus,Festus - Printers,353
+Farmington/Festus,Festus - Servers,502
+Farmington/Festus,Festus - Studio,352
+Fredericksburg,--,175
+Fredericksburg,Fredericksburg - Automation,342
+Fredericksburg,Fredericksburg - Broadcast,343
+Fredericksburg,Fredericksburg - Office,176
+Fredericksburg,Fredericksburg - Printers,345
+Fredericksburg,Fredericksburg - Servers,464
+Fredericksburg,Fredericksburg - Studio,344
+Fredericksburg,Fredericksburg - VoIP,177
+Fredericksburg,Remote from Office,208
+Ft Dodge,--,124
+Ft Dodge,Ft. Dodge - Automation,341
+Ft Dodge,Ft. Dodge - Broadcast,340
+Ft Dodge,Ft. Dodge - Office,125
+Ft Dodge,Ft. Dodge - Studios,339
+Ft Dodge,Ft Dodge - Printers,396
+Ft Dodge,Ft Dodge - Servers,397
+Ft Dodge,Ft Dodge - Streaming,377
+Gray's Harbor,--,242
+Gray's Harbor,Gray's Harbor - Automation,421
+Gray's Harbor,Gray's Harbor - Broadcast,422
+Gray's Harbor,Gray's Harbor - Office,423
+Gray's Harbor,Gray's Harbor - Printers,424
+Gray's Harbor,Gray's Harbor - Servers,425
+Gray's Harbor,Gray's Harbor - Streaming,427
+Gray's Harbor,Gray's Harbor - Studios,426
+Gurnee Mills,--,132
+Gurnee Mills,Gurnee - Automation,213
+Gurnee Mills,Gurnee - Broadcast,211
+Gurnee Mills,Gurnee - Office,212
+Gurnee Mills,Gurnee - Printers,338
+Gurnee Mills,Gurnee - Servers,485
+Gurnee Mills,Gurnee - Streaming,503
+Gurnee Mills,Gurnee - Studios,280
+Gurnee Mills,Kenosha,141
+Gurnee Mills,Waukegan,142
+Jackson,--,118
+Jackson,Jackson - Automation,336
+Jackson,Jackson - Broadcast,195
+Jackson,Jackson - Office,119
+Jackson,Jackson - Printers,337
+Jackson,Jackson - Servers,490
+Jackson,Jackson - Streaming,491
+Jackson,Jackson - Studio,335
+Joliet,--,155
+Joliet,Joliet - Automation,157
+Joliet,Joliet - Broadcast,332
+Joliet,Joliet - Office,156
+Joliet,Joliet - Printer,334
+Joliet,Joliet - Servers,501
+Joliet,Joliet - Studio,333
+Lincoln,--,145
+Lincoln,Lincoln - Automation,398
+Lincoln,Lincoln - Broadcast,399
+Lincoln,Lincoln - Office,146
+Lincoln,LIncoln - Printers,402
+Lincoln,Lincoln - Servers,401
+Lincoln,Lincoln - Streaming,376
+Lincoln,Lincoln - Studios,400
+Louisville,--,149
+Louisville,Louisville - Automation,275
+Louisville,Louisville - Broadcast,151
+Louisville,Louisville - Office,150
+Louisville,Louisville - Printers,276
+Louisville,Louisville - Servers,234
+Louisville,Louisville - Studios,274
+Lubbock,--,170
+Lubbock,Lubbock - Automation,330
+Lubbock,Lubbock - Broadcast,209
+Lubbock,Lubbock - Office,171
+Lubbock,Lubbock - Printer,331
+Lubbock,Lubbock - Servers,473
+Lubbock,Lubbock - Streaming,474
+Lubbock,Lubbock - Studio,210
+Luverne,--,129
+Luverne,Luverne - Automation,263
+Luverne,Luverne - Broadcast,328
+Luverne,Luverne - Office,130
+Luverne,Luverne - Printers,264
+Luverne,Luverne - Servers,262
+Luverne,Luverne - Streaming,403
+Luverne,Luverne - Studios,329
+Madison,--,223
+Madison,Madison - Automation,326
+Madison,Madison - Broadcast,325
+Madison,Madison - Office,225
+Madison,Madison - Printers,327
+Madison,Madison - Servers,404
+Madison,Madison - Streaming,405
+Madison,Madison - Studios,324
+Mankato,--,265
+Mankato,Mankato - Automation,320
+Mankato,Mankato - Broadcast,321
+Mankato,Mankato - Office,266
+Mankato,Mankato - Printers,323
+Mankato,Mankato - Servers,378
+Mankato,Mankato - Streaming,406
+Mankato,Mankato - Studios,322
+Mason City,--,407
+Mason City,Mason City - Automation,408
+Mason City,Mason City - Broadcast,409
+Mason City,Mason City - Office,410
+Mason City,Mason City - Printers,411
+Mason City,Mason City - Servers,412
+Mason City,Mason City - Streaming,414
+Mason City,Mason City - Studios,413
+McKinney/Sherman,--,180
+McKinney/Sherman,McKinney - Automation,447
+McKinney/Sherman,McKinney - Broadcast,448
+McKinney/Sherman,McKinney - Office,446
+McKinney/Sherman,McKinney - Printers,449
+McKinney/Sherman,McKinney - Studio,445
+McKinney/Sherman,Sherman - Automation,319
+McKinney/Sherman,Sherman - Broadcast,244
+McKinney/Sherman,Sherman - Office,203
+McKinney/Sherman,Sherman - Printers,243
+McKinney/Sherman,Sherman - Streaming,504
+McKinney/Sherman,Sherman - Studios,318
+Moberly-Macon,--,135
+Moberly-Macon,Moberly - Automation,250
+Moberly-Macon,Moberly - Broadcast,311
+Moberly-Macon,Moberly - Office,251
+Moberly-Macon,Moberly - Printers,312
+Moberly-Macon,Moberly - Studios,310
+Newton/Grinell,--,167
+Newton/Grinell,Grinnell - Automation,430
+Newton/Grinell,Grinnell - Broadcast,431
+Newton/Grinell,Grinnell - Office,432
+Newton/Grinell,Grinnell - Printers,433
+Newton/Grinell,Grinnell - Servers,434
+Newton/Grinell,Grinnell - Streaming,436
+Newton/Grinell,Grinnell - Studios,435
+Newton/Grinell,Newton - Automation,308
+Newton/Grinell,Newton - Broadcast,273
+Newton/Grinell,Newton - Office,201
+Newton/Grinell,Newton - Printers,202
+Newton/Grinell,Newton - Servers,428
+Newton/Grinell,Newton - Streaming,429
+Newton/Grinell,Newton - Studios,307
+Palm Springs,--,147
+Palm Springs,Palm Springs - Automation,305
+Palm Springs,Palm Springs - Broadcast,304
+Palm Springs,Palm Springs - Office,148
+Palm Springs,Palm Springs - Printer,317
+Palm Springs,Palm Springs - Servers,478
+Palm Springs,Palm Springs - Streaming,479
+Palm Springs,Palm Springs - Studios,306
+Portland,--,100
+Portland,Portland - Automation,270
+Portland,Portland - Broadcast,271
+Portland,Portland - Office,199
+Portland,Portland - Printers,272
+Portland,Portland - Servers,489
+Portland,Portland - Streaming,488
+Portland,Portland - Studios,269
+Portland,Portland - TX:Sylvan,105
+Redwood Falls,--,127
+Redwood Falls,Redwood Falls - Automation,301
+Redwood Falls,Redwood Falls - Broadcast,303
+Redwood Falls,Redwood Falls - Office,128
+Redwood Falls,Redwood Falls - Printers,416
+Redwood Falls,Redwood Falls - Servers,417
+Redwood Falls,Redwood Falls - Streaming,415
+Redwood Falls,Redwood Falls - Studios,302
+Saginaw,--,162
+Saginaw,Saginaw - Automation,299
+Saginaw,Saginaw - Broadcast,188
+Saginaw,Saginaw - Office,163
+Saginaw,Saginaw - Printers,300
+Saginaw,Saginaw - Servers,468
+Saginaw,Saginaw - Streaming,466
+Saginaw,Saginaw - Studio,298
+Salt Lake City,--,172
+Salt Lake City,Salt Lake City - Automation,296
+Salt Lake City,Salt Lake City - Broadcast,174
+Salt Lake City,Salt Lake City - Office,173
+Salt Lake City,Salt Lake City - Printers,297
+Salt Lake City,Salt Lake City - Studio,295
+San Antonio,--,111
+San Antonio,San Antonio - Automation,293
+San Antonio,San Antonio - Broadcast,113
+San Antonio,San Antonio - Office,112
+San Antonio,San Antonio - Printers,294
+San Antonio,San Antonio - Servers,476
+San Antonio,San Antonio - Streaming,477
+San Antonio,San Antonio - Studios,292
+San Jose,--,164
+San Jose,San Jose - Automation,289
+San Jose,San Jose - Broadcast,166
+San Jose,San Jose - Office,165
+San Jose,San Jose - Printer,291
+San Jose,San Jose - Servers,506
+San Jose,San Jose - Studio,290
+Shreveport,--,235
+Shreveport,Shreveport - Automation,254
+Shreveport,Shreveport - Broadcast,288
+Shreveport,Shreveport - Office,252
+Shreveport,Shreveport - Printers,287
+Shreveport,Shreveport - Servers,253
+Shreveport,Shreveport - Streaming,471
+Shreveport,Shreveport - Studio,472
+Topeka,--,161
+Topeka,Topeka - Automation,285
+Topeka,Topeka - Broadcast,284
+Topeka,Topeka - Office,198
+Topeka,Topeka - Printers,286
+Topeka,Topeka - Studio,268
+Watertown,--,120
+Watertown,Watertown - Automation,247
+Watertown,Watertown - Broadcast,418
+Watertown,Watertown - Office,121
+Watertown,Watertown - Printers,245
+Watertown,Watertown - Servers,246
+Watertown,Watertown - Streaming,420
+Watertown,Watertown - Studios,419
+Waynesville-Lebanon,--,236
+Waynesville-Lebanon,Waynesville/Lebanon - Automation,283
+Waynesville-Lebanon,Waynesville/Lebanon - Broadcast,282
+Waynesville-Lebanon,Waynesville/Lebanon - Office,237
+Waynesville-Lebanon,Waynesville/Lebanon - Servers,469
+Waynesville-Lebanon,Waynesville/Lebanon - Streaming,498
+Waynesville-Lebanon,Waynesville/Lebanon - Studios,281
+Wenatchee/Moses Lake,--,109
+Wenatchee/Moses Lake,Wenatchee - Automation,277
+Wenatchee/Moses Lake,Wenatchee - Broadcast,279
+Wenatchee/Moses Lake,Wenatchee - Office,110
+Wenatchee/Moses Lake,Wenatchee - Studios,278
